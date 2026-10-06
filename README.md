@@ -1,6 +1,7 @@
 # Project Report
 This repository contains the study notes and practical exercises consolidated in the technical ethical hacking report:
 
+Ethical hacking report: https://github.com/rauulblazquez/Final-Project-Ethical-Hacking-TokioSchools/blob/6f80bb1ddfd1dbad6c7697e3ec41fc1379ef9405/InformeTecnico_Raul_Bl%C3%A1zquez_Mir.pdf
 
 ### Overview
 - **Target Audit:** Pentest externo en la web tokiohacking.com empleando Kali Linux y Docker.   
