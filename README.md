@@ -1,2 +1,6 @@
-# Final-Project-Ethical-Hacking-TokioSchools
-Target: tokiohacking.com (External Pentest via Kali Linux &amp; Docker). Tools: Nmap, Nikto, Gobuster, WhatWeb, Curl, Shodan. Findings: Identified 4 misconfiguration risks (3 Medium, 1 Low), including missing HttpOnly cookie flags and HTTP security headers (X-Frame-Options, X-Content-Type-Options). Outcome: Delivered a phased remediation roadmap, acces
+# Project Report
+
+Target Audit: Pentest externo en la web tokiohacking.com empleando Kali Linux y Docker.   
+Tools: Nmap, Nikto, Gobuster, WhatWeb, Curl y Shodan.   
+Key Findings: Se identificaron 4 riesgos de configuración (3 de nivel Medio y 1 de nivel Bajo). Entre ellos se incluye la ausencia de cabeceras de seguridad HTTP (X-Frame-Options, X-Content-Type-Options) y la creación de cookies sin el atributo HttpOnly.   
+Outcome: Análisis completo, plan de remediación por fases y políticas de seguridad detalladas e incluidas en el informe
