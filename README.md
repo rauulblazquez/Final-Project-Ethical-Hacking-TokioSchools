@@ -1,7 +1,6 @@
 # Project Report
-This repository contains the study notes and practical exercises consolidated in the hackingThis repository contains the study notes and practical exercises consolidated in the technical ethical hacking report:
+This repository contains the study notes and practical exercises consolidated in the technical ethical hacking report:
 
-report:
 
 ### Overview
 - **Target Audit:** Pentest externo en la web tokiohacking.com empleando Kali Linux y Docker.   
